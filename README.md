@@ -53,6 +53,8 @@ python FlashCard.py
 
 ![Screenshot 2025-02-24 233138](https://github.com/user-attachments/assets/61f670fe-e37a-4e00-bf42-3b37ac73efce)
 ![Screenshot 2025-02-24 233152](https://github.com/user-attachments/assets/99275d54-c991-4319-9b17-0f6e886eb9ff)
+![image](https://github.com/user-attachments/assets/3c541e3b-5413-47f8-aba4-a8e0ff672b9a)
+
 
 ## 🤝 Contributing
 
